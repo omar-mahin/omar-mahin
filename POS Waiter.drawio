@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T05:50:27.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.4" etag="v1oaEKtaJDq7Vd7ODvUV" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T07:16:22.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ODiTyIMBeO4qeFcBTLqh" version="23.1.4" type="github">
   <diagram name="Page-1" id="knzAuW0coJMuKpMu3PRs">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_SApVEIOftllvKabywyw-1" value="Waiter" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_SApVEIOftllvKabywyw-2" value="Clock In by scanning ID/code" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="90" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="_SApVEIOftllvKabywyw-3" value="Enter System" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="65" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_SApVEIOftllvKabywyw-4" value="Station" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="10" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_SApVEIOftllvKabywyw-5" value="Table" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_SApVEIOftllvKabywyw-6" value="Options" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="150" width="80" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
