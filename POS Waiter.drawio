@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T05:00:55.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="g3X27swIHdoKJrJ_GmY2" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T05:02:37.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="CQ4zKR6i7JRb0E5Y7Tl-" version="23.1.5" type="github">
   <diagram name="Page-1" id="knzAuW0coJMuKpMu3PRs">
-    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,8 +88,20 @@
         <mxCell id="_PRdKNhxORNj2MjLX8KP-22" value="Exit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="65" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_PRdKNhxORNj2MjLX8KP-23" value="Request&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-23" value="Transfered" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="130" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-24" value="Changed" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="212.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-25" value="Table Cleaned" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="290" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-26" value="Choose Ticket" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="350" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-27" value="Print" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="410" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
