@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T04:48:39.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2mm-l26QuxxbobbP-WMy" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T04:52:47.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="87qFCJVzogajLixn_DXb" version="23.1.5" type="github">
   <diagram name="Page-1" id="knzAuW0coJMuKpMu3PRs">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,33 @@
         </mxCell>
         <mxCell id="_PRdKNhxORNj2MjLX8KP-6" value="Create Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="470" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-7" value="Send to kitchen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="550" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-8" value="Payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="550" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-9" value="Cash" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-10" value="Card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="640" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-11" value="MFS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="640" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-12" value="Others" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="640" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-13" value="Receipt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="720" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-14" value="Split Payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="550" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-15" value="Options" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="65" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
