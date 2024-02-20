@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T04:52:47.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="87qFCJVzogajLixn_DXb" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T04:55:31.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4HZydRlweFH_v0N9G1AM" version="23.1.5" type="github">
   <diagram name="Page-1" id="knzAuW0coJMuKpMu3PRs">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,13 +14,13 @@
           <mxGeometry x="354" y="65" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_SApVEIOftllvKabywyw-4" value="Station" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="439" y="130" width="80" height="35" as="geometry" />
+          <mxGeometry x="480" y="115" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_SApVEIOftllvKabywyw-5" value="Table" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="359" y="200" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_SApVEIOftllvKabywyw-6" value="Options" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="65" width="80" height="35" as="geometry" />
+          <mxGeometry x="640" y="65" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="_PRdKNhxORNj2MjLX8KP-1" value="Food Items" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="350" width="80" height="45" as="geometry" />
@@ -64,8 +64,8 @@
         <mxCell id="_PRdKNhxORNj2MjLX8KP-14" value="Split Payment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="550" width="80" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="_PRdKNhxORNj2MjLX8KP-15" value="Options" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="65" width="80" height="35" as="geometry" />
+        <mxCell id="_PRdKNhxORNj2MjLX8KP-15" value="Bar Mode" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
